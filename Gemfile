@@ -40,6 +40,9 @@ gem 'hypdf', '~> 1.0.7'           # PDFInfoAgent
 # Weibo Agents
 gem 'weibo_2', github: 'cantino/weibo_2', branch: 'master'
 
+# Google Agents
+gem 'omniauth-google-oauth2'
+
 # GoogleCalendarPublishAgent
 gem "google-api-client", require: 'google/api_client'
 
